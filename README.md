@@ -1,8 +1,10 @@
 ## Mazes for Programmers (Python)
 
-[Mazes for Programmers](http://www.mazesforprogrammers.com) is an awesome book but all the code examples are in Ruby. If you’re new to Python (like me), it becomes a bit of a challenge trying to translate from one language you don’t know to a new language that you’re learning! 🙇
+[Mazes for Programmers](http://www.mazesforprogrammers.com) is an awesome book and you should definitely buy a copy. 
 
-So, here’s my simple, bare-bones Python mazes code for anyone else in a similar situation. I’ve tried to keep it as close to the book as possible so that it’s easy to go chapter by chapter without distractions.
+However, if you’re new to Python (like me) then it becomes a bit of challenge when all the examples in the book are written in Ruby. You spend a lot of time translating the code from one language you don’t know to another language that you’re trying to learn! 🙇
+
+So, here’s my simple, bare-bones Python version of the mazes code for anyone else in a similar situation. I’ve tried to keep it as close to the book as possible so that it’s easy to go chapter by chapter without distractions. However, I would recommend that you try writing your own code first (that's the fun challenge!) and then only reference these examples if you get stuck.
 
 A few notes: 
 
@@ -10,7 +12,7 @@ A few notes:
 
 * You will need [Pillow](https://pillow.readthedocs.io/en/stable/) installed in order for the `to_png` function to work. Installation is quick and easy with [these instructions](https://pillow.readthedocs.io/en/stable/installation.html).
 
-* If you’re looking for some all-singing, all-dancing Python mazes code with bells and whistles, then you could try [this](https://github.com/Kartones/mazes-for-programmers-python-src) repository.
+* If you’re looking for an all-singing, all-dancing Python version of the mazes code with bells and whistles, then you could try [this](https://github.com/Kartones/mazes-for-programmers-python-src) repository.
 
 ***
 
