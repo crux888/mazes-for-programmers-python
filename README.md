@@ -16,8 +16,8 @@ A few notes:
 
 ## Example mazes
 
-![mazes-for-programmers-python 001](https://user-images.githubusercontent.com/88885429/145673894-54029ff6-1322-4697-8be3-659aa196990c.png)
-![mazes-for-programmers-python 002](https://user-images.githubusercontent.com/88885429/145673896-478b7be2-2b91-4eb7-8983-69d804cd8971.png)
+![Example mazes](https://user-images.githubusercontent.com/88885429/145674260-18e705be-b866-491c-8398-ba58ca5e29c3.png)
+![Example mazes](https://user-images.githubusercontent.com/88885429/145674261-9bffe50f-8bd7-40e6-aeef-0de9af5abf0e.png)
 
 ***
 
