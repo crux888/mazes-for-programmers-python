@@ -7,7 +7,7 @@ from hunt_and_kill import HuntAndKill
 from recursive_backtracker import RecursiveBacktracker
 
 
-grid = ColoredGrid(20, 20)
+grid = ColoredGrid(37, 37)
 algorithm = RecursiveBacktracker()
 algorithm.on(grid)
 
