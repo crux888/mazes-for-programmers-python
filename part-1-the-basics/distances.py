@@ -14,7 +14,6 @@ class Distances:
         self.cells[cell] = distance
         
     def cells(self):
-        print("cells (not used before!)")
         return cells.keys
         # return list(self._cells.keys())
         

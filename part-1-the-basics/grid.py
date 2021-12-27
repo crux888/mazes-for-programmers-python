@@ -25,7 +25,7 @@ class Grid:
             cell.east = self[row, column + 1]
             cell.west = self[row, column - 1]
 
-    def __getitem__(self, key):  # : Key):
+    def __getitem__(self, key):
         row, column = key
         if row < 0 or row > self.rows - 1:
             return None
@@ -48,7 +48,9 @@ class Grid:
     def each_cell(self):
         for row in self.each_row():
             for cell in row:
-                yield cell
+                #yield cell
+                if cell is not None:
+                    yield cell 
 
     def cell_at(self, row, column):
         if not (0 <= row < self.rows):
