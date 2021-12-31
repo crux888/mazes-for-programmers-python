@@ -8,7 +8,7 @@ So, here’s my simple, bare-bones Python version of the mazes code for anyone e
 
 A few notes: 
 
-* I’ve only included code for Parts 1 and 2 of the book (chapters 1-9). The other sections will follow as I continue working through the book… 🧑‍💻
+* I’ve only included code for Parts 1, 2, and 3 of the book (chapters 1-12). Part 4 will follow shortly… 🧑‍💻
 
 * You will need [Pillow](https://pillow.readthedocs.io/en/stable/) installed in order for the `to_png` function to work. Installation is quick and easy with [these instructions](https://pillow.readthedocs.io/en/stable/installation.html).
 
@@ -26,6 +26,9 @@ A few notes:
 ![Example 4](https://user-images.githubusercontent.com/88885429/147467430-44935dd0-e34f-4828-b160-fa7f34a73a2e.png)
 ![Example 5](https://user-images.githubusercontent.com/88885429/147467431-edea1700-2198-4d7f-8fbd-127844905f0b.png)
 ![Example 6](https://user-images.githubusercontent.com/88885429/147467433-3d1bcdfa-0d8e-4382-85a5-76d551100f2b.png)
+![Example 7](https://user-images.githubusercontent.com/88885429/147835040-dee121e0-3f98-47d9-b327-6e8183696de5.png)
+![Example 8](https://user-images.githubusercontent.com/88885429/147835042-001d5e3f-a981-4a96-981b-adf7eda1bdc4.png)
+![Example 9](https://user-images.githubusercontent.com/88885429/147835044-07a11cad-bab1-4379-9fcc-6b4414f42cfe.png)
 
 ***
 
