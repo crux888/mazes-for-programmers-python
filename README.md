@@ -2,19 +2,21 @@
 
 [Mazes for Programmers](http://www.mazesforprogrammers.com) is an awesome book and you should definitely buy a copy. 
 
-However, if you’re new to Python (like me) then it becomes a bit of challenge when all the examples in the book are written in Ruby. You spend a lot of time translating the code from one language you don’t know to another language that you’re trying to learn! 🙇
+However, all the code examples in the book are written in Ruby and it's not always straightforward to make them work in Python.
 
-So, here’s my simple, bare-bones Python version of the mazes code for anyone else in a similar situation. I’ve tried to keep it as close to the book as possible so that it’s easy to go chapter by chapter without distractions. However, I would recommend that you try writing your own code first (that's the fun challenge!) and then only reference these examples if you get stuck.
+So, for anyone who's interested, here's my simple, bare-bones Python implementation of the code examples for each section of the book.
+
+I’ve tried to keep everything as close as possible to the book so that it’s easy to go chapter by chapter. However, I would recommend that you try writing your own code first (that's the fun challenge!) and then only reference these examples if you get stuck.
 
 A few notes: 
 
-* I’ve only included code for Parts 1, 2, and 3 of the book (chapters 1-12). Part 4 will follow shortly… 🧑‍💻
+* You will need to install [Pillow](https://pillow.readthedocs.io/en/stable/installation.html) in order to see PNG versions of the mazes.
 
-* You will need [Pillow](https://pillow.readthedocs.io/en/stable/) installed in order for the `to_png` function to work. Installation is quick and easy with [these instructions](https://pillow.readthedocs.io/en/stable/installation.html).
-
-* If you're looking for an explanation of how the different maze algorithms work, then buy yourself a copy of [Mazes for Programmers](http://www.mazesforprogrammers.com).
+* If you're looking for an explanation of how the different maze algorithms work, then buy yourself a copy of [Mazes for Programmers](http://www.mazesforprogrammers.com). Highly recommended!
 
 * If you find this code useful or inspiring, then feel free to [buy me a coffee](https://www.buymeacoffee.com/crux). ☕️
+
+* If you’re a Minecraft fan, then check out my [Minecraft Mazes](https://github.com/crux888/minecraft-mazes-makecode) implementation.
 
 ***
 
@@ -29,6 +31,10 @@ A few notes:
 ![Example 7](https://user-images.githubusercontent.com/88885429/147835040-dee121e0-3f98-47d9-b327-6e8183696de5.png)
 ![Example 8](https://user-images.githubusercontent.com/88885429/147835042-001d5e3f-a981-4a96-981b-adf7eda1bdc4.png)
 ![Example 9](https://user-images.githubusercontent.com/88885429/147835044-07a11cad-bab1-4379-9fcc-6b4414f42cfe.png)
+![Example 10](https://user-images.githubusercontent.com/88885429/147885660-40f93c38-f7ce-40d8-b8e7-89c0d107c07c.png)
+![Example 11](https://user-images.githubusercontent.com/88885429/147885668-d135e77b-ca9d-407a-a16e-8ec8504ed19f.png)
+![Example 12](https://user-images.githubusercontent.com/88885429/147885669-569394d6-d8e1-4532-90e8-6054f8ea4071.png)
+
 
 ***
 
