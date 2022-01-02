@@ -18,6 +18,5 @@ class PolarCell(Cell):
             list.append(self.ccw)
         if self.inward:
             list.append(self.inward)
-        if self.outward:
-            list.append(self.outward)
+        list += self.outward
         return list

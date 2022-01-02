@@ -35,7 +35,7 @@ class PolarGrid(ColoredGrid):
                 cell.ccw = self[row, column - 1]
                 ratio = len(self.grid[row]) / len(self.grid[row - 1])
                 parent = self.grid[row - 1][int(column / ratio)]
-                parent.outward = cell
+                parent.outward.append(cell)
                 cell.inward = parent 
                 
     def __getitem__(self, key):
